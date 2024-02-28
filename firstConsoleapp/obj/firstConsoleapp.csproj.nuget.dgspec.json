@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\OneDrive\\Desktop\\NetLearning-prajita\\Netlearning-PrajitaTim\\firstConsoleapp\\firstConsoleapp.csproj": {}
+    "C:\\Users\\dell\\OneDrive\\Desktop\\NetLearning-prajita\\Netlearning-PrajitaTim\\firstconsoleapp\\firstConsoleapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\OneDrive\\Desktop\\NetLearning-prajita\\Netlearning-PrajitaTim\\firstConsoleapp\\firstConsoleapp.csproj": {
+    "C:\\Users\\dell\\OneDrive\\Desktop\\NetLearning-prajita\\Netlearning-PrajitaTim\\firstconsoleapp\\firstConsoleapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\NetLearning-prajita\\Netlearning-PrajitaTim\\firstConsoleapp\\firstConsoleapp.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\NetLearning-prajita\\Netlearning-PrajitaTim\\firstconsoleapp\\firstConsoleapp.csproj",
         "projectName": "firstConsoleapp",
-        "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\NetLearning-prajita\\Netlearning-PrajitaTim\\firstConsoleapp\\firstConsoleapp.csproj",
+        "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\NetLearning-prajita\\Netlearning-PrajitaTim\\firstconsoleapp\\firstConsoleapp.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\NetLearning-prajita\\Netlearning-PrajitaTim\\firstConsoleapp\\obj\\",
+        "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\NetLearning-prajita\\Netlearning-PrajitaTim\\firstconsoleapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

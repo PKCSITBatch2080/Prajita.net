@@ -1,0 +1,15 @@
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstConsoleapp\obj\Debug\net8.0\firstConsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstConsoleapp\obj\Debug\net8.0\firstConsoleapp.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstConsoleapp\obj\Debug\net8.0\firstConsoleapp.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstConsoleapp\obj\Debug\net8.0\firstConsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstConsoleapp\obj\Debug\net8.0\firstConsoleapp.sourcelink.json
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstconsoleapp\bin\Debug\net8.0\firstConsoleapp.exe
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstconsoleapp\bin\Debug\net8.0\firstConsoleapp.deps.json
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstconsoleapp\bin\Debug\net8.0\firstConsoleapp.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstconsoleapp\bin\Debug\net8.0\firstConsoleapp.dll
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstconsoleapp\bin\Debug\net8.0\firstConsoleapp.pdb
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstconsoleapp\obj\Debug\net8.0\firstConsoleapp.dll
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstconsoleapp\obj\Debug\net8.0\refint\firstConsoleapp.dll
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstconsoleapp\obj\Debug\net8.0\firstConsoleapp.pdb
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstconsoleapp\obj\Debug\net8.0\firstConsoleapp.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\firstconsoleapp\obj\Debug\net8.0\ref\firstConsoleapp.dll
