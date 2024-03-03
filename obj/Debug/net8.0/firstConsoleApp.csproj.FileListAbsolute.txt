@@ -1,0 +1,5 @@
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\obj\Debug\net8.0\firstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\obj\Debug\net8.0\firstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\obj\Debug\net8.0\firstConsoleApp.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\obj\Debug\net8.0\firstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\obj\Debug\net8.0\firstConsoleApp.sourcelink.json
