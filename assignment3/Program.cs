@@ -1,8 +1,9 @@
-﻿﻿﻿class Program
+﻿﻿using System;
+﻿class program
 {
     public static void Main()
     {
-        string filePath = @"E:\Dotnet-Prajita\Assignment3\Inflation.csv";
+        string filePath = @"C:\Users\dell\OneDrive\Desktop\NetLearning-prajita\Netlearning-PrajitaTim\assignment3\Inflation.csv";
         InflationAnalysis analysis = new InflationAnalysis();
         analysis.ReadInflationData(filePath);
 
