@@ -1,5 +1,7 @@
 @model List<CollegeProgram>
-<a  class ="btn btn-success" href="/program/add"><i class="bi bi-plus"></i> New Tech Program</a>
+
+<a class="btn btn-success" href="/program/add"><i class="bi bi-plus-lg"></i> New Tech Program</a>
+
 <table class="table">
   <thead>
     <tr>
@@ -7,18 +9,23 @@
       <th scope="col">Name</th>
       <th scope="col">Affiliation</th>
       <th scope="col">Started</th>
+      <th scope="col"></th>
     </tr>
   </thead>
   <tbody>
-    @for (var i = 0; i < Model.Count; i++)
+
+    @foreach(var college in Model)
     {
-        var college = Model[i];
-        <tr>
-            <th scope="row">@i</th>
-            <td>@college.Name</td>
-            <td>@college.Affiliation</td>
-            <td>@college.Started</td>
-        </tr>
-    }
+      <tr>
+        <th scope="row">@college.Id</th>
+        <td>@college.Name</td>
+        <td>@college.Affiliation</td>
+        <td>@college.Started</td>
+        <td>
+          <a href="/program/edit?id=@college.Id"><i class="bi bi-pen text-warning"></i></a>
+          <a href="/program/delete?id=@college.Id"><i class="bi bi-trash text-danger"></i></a>
+        </td>
+      </tr>
+    }    
   </tbody>
 </table>

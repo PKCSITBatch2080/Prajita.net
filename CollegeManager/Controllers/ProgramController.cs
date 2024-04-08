@@ -2,18 +2,13 @@
 using Microsoft.AspNetCore.Mvc;
 public class ProgramController : Controller
 {
-    List<CollegeProgram> programs = 
-    [
-        new() { Id = 1, Name = "CSIT", Affiliation = "TU", Started = DateTime.Now },
-        new() { Id = 2, Name = "BCA", Affiliation = "TU", Started = DateTime.Now.AddYears(-2) },
-        new() { Id = 3, Name = "BIT", Affiliation = "TU", Started = DateTime.Now.AddMonths(-11) },
-        new() { Id = 4, Name = "BIM", Affiliation = "PU", Started = DateTime.Now.AddDays(-200) }
-    ];
-
     [HttpGet]
     public IActionResult Index()
     {
-        return View(programs);
+        CollegeManagerDb db = new();
+        var models = db.CollegePrograms.ToList();
+
+        return View(models);
     }
 
     [HttpGet]
@@ -26,7 +21,28 @@ public class ProgramController : Controller
     public IActionResult Add(CollegeProgram program) // model binding
     {
         // Do something on program
-        programs.Add(program);
+        CollegeManagerDb db = new();
+        db.CollegePrograms.Add(program);
+        db.SaveChanges();
+        
+        return RedirectToAction("Index");
+    }
+
+    [HttpGet]
+    public IActionResult Edit(int id)
+    {
+        CollegeManagerDb db = new();
+        var model = db.CollegePrograms.Find(id);
+        return View(model);
+    }
+
+    [HttpPost]
+    public IActionResult Edit(CollegeProgram program) // model binding
+    {
+        // Do something on program
+        CollegeManagerDb db = new();
+        db.CollegePrograms.Update(program);
+        db.SaveChanges();
         
         return RedirectToAction("Index");
     }
